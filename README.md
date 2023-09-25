@@ -1,4 +1,4 @@
-# Praktikum Daspro SI UNMUL 2023 (GANJIL)
+# Praktikum Daspro SI UNMUL 2023 (Ganjil)
 Assalamualaikum Warahmatullahi Wabarakatuh,
 Perkenalkan saya Muhammad Khairu Fadilah dari Sistem Informasi 2023, NIM 2309116025.
 Saya disini ingin menjelaskan program segitiga pythagoras yang telah saya buat.
