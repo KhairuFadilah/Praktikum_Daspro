@@ -5,7 +5,7 @@ Saya disini ingin menjelaskan program segitiga pythagoras yang telah saya buat.
 
 1. Basis Program
 
-![Basis Program](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/92ada15f-74bb-4ba6-afca-77554190a9bc)
+![Basis Program](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/60eeba36-eedf-4e15-98f6-4f87996ee764)
 
 Jadi, di basis program saya menggunakan function() agar program login dapat berjalan (akan saya jelaskan dibagian Program Login).
 Dan, saya juga menggunakan import math, mengapa? Supaya di program kita dapat mengakses operasi matematika seperti sin, dan cos.
@@ -14,32 +14,32 @@ Di program ini, saya menggunakan sqrt yang berfungsi untuk mengakarkan suatu bil
 Di program ini kita dapat mencari 3 jenis sisi, yaitu sisi tegak, sisi alas, dan sisi miring.
 Apabila kita ingin mencari sisi miring, kita dapat mengetik "miring" pada input.
 
-![Hasil Output (Benar,Miring)](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/de46e493-9b52-45bc-bd55-7a0194e10e01)
+![Hasil Output (Benar,Miring)](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/bc6b9900-bd5b-4d5b-8078-821b00b1dc8b)
 
 Begitu juga dengan sisi alas maupun sisi tegak.
 
 Contoh sisi alas:
 
-![Hasil Output (Benar,Alas)](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/e31fa9df-dc38-4f45-b2ed-d1f0bff27962)
+![Hasil Output (Benar,Alas)](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/0114e2ba-7ea1-44b8-9055-0a9847cbd728)
 
 Contoh sisi tegak:
 
-![Hasil Output (Benar,Tegak)](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/084079d2-c265-4560-816e-282ff8291e99)
+![Hasil Output (Benar,Tegak)](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/63a07b75-3d64-42f5-8fc0-fa5716a30127)
 
 
 2. Program Login
 
-![Program Login](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/414a2c8d-b2a0-43c4-a22b-c215a2f1fc6b)
+![Program Login](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/9265559c-078d-427a-9240-adb609953e16)
 
 Untuk mengakses program segitiga pythagoras, kita perlu untuk login terlebih dahulu.
 Jadi, di program login ini saya menggunakan nama lengkap saya sebagai user dan NIM saya sebagai password.
 Apabila nama dan NIM telah terinput dengan benar, maka akan mengeluarkan output seperti ini:
 
-![Penjelasan Login 1](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/1af81b62-6375-4e23-8ebe-1265e63e5561)
+![Penjelasan Login 1](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/d329987d-ce70-4719-b075-03d0b3d2c8ef)
 
 Dan, jika salah dalam menginput nama atau NIM atau keduanya, akan mendapatkan output seperti ini:
 
-![Hasil Ouput (Salah)](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/421ec8c5-be1e-4e5a-b6de-28a4aaa9f504)
+![Hasil Ouput (Salah)](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/2e170450-3786-4368-a9d9-2a11358cbbba)
 
 Nah, kok bisa sih kalau benar menginput nama dan NIM bisa keluar program sedangkan kalau salah tidak bisa?
 Jawabannya adalah karena function(). Jadi, ketika benar mengimput nama dan NIM, function akan berjalan.
