@@ -46,4 +46,10 @@ Jawabannya adalah karena function(). Jadi, ketika benar mengimput nama dan NIM, 
 Mengingat kembali bahwa function() tidak akan pernah teroutput kecuali diperintahkan.
 Sedangkan kalau kita salah menginput nama atau NIM atau keduanya, maka program akan otomatis end tanpa adanya program segitiga pythagoras.
 
-Sekian dari penjelasan program pythagoras saya, apabila ada salah kata ataupun kurang kata mohon dimaafkan. Saya mengucapkan terima kasih kepada aslab Daspro SI UNMUL 2023 kelas A yang telah membimbing saya hingga posttest ini, tidak lupa juga dengan teman-teman SI yang telah memebrikan saya motivasi hingga sekarang. Wassalamualaikum Warahmatullahi Wabarakatuh
+Ini merupakan gambar flowchart yang digunakan untuk basis codingan saya:
+
+![Flowchart Posttest NIM Ganjil - Muhammad Khairu Fadilah - 2309116025 FINAL drawio](https://github.com/KhairuFadilah/Praktikum_Daspro/assets/144750627/31431863-83ca-4db1-ad1e-aef19a9a7489)
+
+Sekian dari penjelasan program pythagoras saya, apabila ada salah kata ataupun kurang kata mohon dimaafkan. Saya mengucapkan terima kasih kepada aslab Daspro SI UNMUL 2023 kelas A yang telah membimbing saya hingga posttest ini, tidak lupa juga dengan teman-teman SI yang telah memebrikan saya motivasi hingga sekarang. Wassalamualaikum Warahmatullahi Wabarakatuh.
+
+
